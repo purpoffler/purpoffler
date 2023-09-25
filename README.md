@@ -4,9 +4,11 @@
   <h3>DA/DS from St.Petersburg </h3>
 </div>
 
+    
+
 ### About me
 - 🌱 I’m currently learning DS
-- About my experience: [CV]
+- About my experience: <a href = 'https://spb.hh.ru/resume/674d8c2aff0c1b9d120039ed1f396f46673063'> [CV]  </a>
 - 📫 How to reach me: [Linked in] (), [email] ()
 
 <!--
