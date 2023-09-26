@@ -13,12 +13,12 @@
 
 ### Languages and tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = '50' height = '50'/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width = '50' height = '50'/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"  width = '50' height = '50'/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"  width = '50' height = '50'/>&nbsp;
-<img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.png?raw=true"  width = '50' height = '50'/>&nbsp;    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width = '50' height = '50'/>&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = '60' height = '60'/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width = '60' height = '60'/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width = '60' height = '60'/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"  width = '60' height = '60'/>&nbsp;
+<img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.png?raw=true"  width = '60' height = '60'/>&nbsp;    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width = '60' height = '60'/>&nbsp; 
           
           
 
