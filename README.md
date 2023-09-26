@@ -13,11 +13,11 @@
 
 ### Languages and tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" , width = '40' height = '40'/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" , width = '40' height = '40'/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" , width = '40' height = '40'/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" , width = '40' height = '40'/>&nbsp;
-<img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.png?raw=true" , width = '40' height = '40'/>&nbsp;                           
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = '40' height = '40'/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width = '40' height = '40'/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"  width = '40' height = '40'/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"  width = '40' height = '40'/>&nbsp;
+<img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.png?raw=true"  width = '40' height = '40'/>&nbsp;                           
           
 
 <!--
