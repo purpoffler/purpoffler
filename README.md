@@ -10,15 +10,6 @@
 - 👔 About my experience: <a href = 'https://spb.hh.ru/resume/674d8c2aff0c1b9d120039ed1f396f46673063'> [CV]  </a> (Hh_CV  - link)
 - 📫 How to reach me: <a href = 'mailto:mainarchi@yandex.ru'> [email]  </a> (mailto:email - address)
 
-### Languages and tools
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = '60' height = '60'/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width = '60' height = '60'/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width = '60' height = '60'/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"  width = '60' height = '60'/>&nbsp;
-<img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.png?raw=true"  width = '60' height = '60'/>&nbsp;    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width = '60' height = '60'/>&nbsp; 
-          
           
 
 <!--
