@@ -1,13 +1,12 @@
 
 <div id = 'header' align = "center">
   <h1>Hello there 👋, I'm Dmitry</h1>
-  <h3>DA/DS from St.Petersburg </h3>
+  
 </div>
 
     
 
 ### About me
-- 🌱 I’m currently learning product analytics
 - 👔 About my experience: <a href = 'https://spb.hh.ru/resume/674d8c2aff0c1b9d120039ed1f396f46673063'> [CV]  </a> (Hh_CV  - link)
 - 📫 How to reach me: <a href = 'mailto:mainarchi@yandex.ru'> [email]  </a> (mailto:email - address)
 
